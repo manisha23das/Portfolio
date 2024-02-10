@@ -3,7 +3,7 @@
 ## [ATM Transaction Dashboard](https://github.com/manisha23das/ATM-Transaction-Dashboard)
 The purpose of this project is to analyze the ATM transaction data for Bank to gain insights on customer behavior, ATM usage, and identify opportunities to improve the bank's services. ![]([Images/Atm.png](https://github.com/manisha23das/Portfolio/blob/main/Atm.png))
 ## [Healthcare Data Wait List Dashboard](https://github.com/manisha23das/Healthcare-Data-Wait-List-Dashboard)
-This project focuses on creating an insightful and interactive dashboard using Power BI to analyze and visualize healthcare wait list data. The dataset utilized includes information on inpatient and outpatient cases, organized in a CSV file. ![](Images/Healthcare.png)
+This project focuses on creating an insightful and interactive dashboard using Power BI to analyze and visualize healthcare wait list data. The dataset utilized includes information on inpatient and outpatient cases, organized in a CSV file. ![]([Images/Healthcare.png](https://github.com/manisha23das/Portfolio/blob/main/Atm.png))
 ## [Sales Dashboard](https://github.com/manisha23das/Sales-Dashboard)
 The Sales Dashboard project focuses on providing a comprehensive visual representation of sales data. Through key metrics and interactive visualizations, the dashboard aims to empower businesses with insights into sales performance, trends, and areas for improvement. ![](Images/Sales.png)
 ## [HR Attrition Analytics](https://github.com/manisha23das/HR-Analytics)
