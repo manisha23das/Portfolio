@@ -1,4 +1,4 @@
-#### [Resume](https://drive.google.com/file/d/1ucNZooi63Hgosl1d-Wwmxt65kBJP4417/view?usp=sharing)     #### [Linkedin](https://www.linkedin.com/in/manisha-das-3a7b3b224/)
+#### -[Resume](https://drive.google.com/file/d/1ucNZooi63Hgosl1d-Wwmxt65kBJP4417/view?usp=sharing)     -[Linkedin](https://www.linkedin.com/in/manisha-das-3a7b3b224/)
 
 # Projects:
 ## [ATM Transaction Dashboard](https://github.com/manisha23das/ATM-Transaction-Dashboard)
