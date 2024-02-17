@@ -1,6 +1,5 @@
 title: Manisha Das
-#logo: /assets/img/headshot_circle.png
-#description: text below image
-logo: D:\Backup\Form\photo3.jpg
+logo: https://github.com/manisha23das/Portfolio/blob/main/images/Photo.png
+description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
