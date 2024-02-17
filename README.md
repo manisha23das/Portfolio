@@ -10,3 +10,8 @@ The Sales Dashboard project focuses on providing a comprehensive visual represen
 The HR Attrition Analytics Project is a comprehensive data analytics initiative aimed at analyzing and visualizing employee attrition data for informed decision-making within an organization. The goal is to provide valuable insights into employee attrition trends, enabling HR professionals to devise targeted retention strategies and optimize workforce planning. ![](images/HR.png)
 ## [Pharma Data Analysis-MySql](https://github.com/manisha23das/Pharma-Data-Analysis--MYSQL)
 The Pharma Dataset Data Analysis project aims to derive valuable insights from a pharmaceutical dataset using SQL queries. By leveraging SQL queries, this analysis focuses on uncovering patterns, trends, and key metrics within the pharmaceutical sales data.
+
+#Certificates:
+[• PWC Power BI Job Simulation on Forage](https://drive.google.com/file/d/1Yx8TWmV58tzk8MBMaNE925WjBigY8tg7/view)
+Completed a job simulation where I strengthened my PowerBI skills to better understand clients and their data visualisation needs.
+[• SQL(Basic/Intermediate) - HackerRank](https://www.hackerrank.com/certificates/2f0d4694a423)
