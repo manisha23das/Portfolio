@@ -1,4 +1,4 @@
-#### -[Resume](https://drive.google.com/file/d/1ucNZooi63Hgosl1d-Wwmxt65kBJP4417/view?usp=sharing)     -[Linkedin](https://www.linkedin.com/in/manisha-das-3a7b3b224/)
+#### -[Resume](https://drive.google.com/file/d/1p1bRmr1MTlf9NKCbmvSazD9LbfDbxkX_/view?usp=sharing)     -[Linkedin](https://www.linkedin.com/in/manisha-das-3a7b3b224/)
 
 # Projects:
 ## [ATM Transaction Dashboard](https://github.com/manisha23das/ATM-Transaction-Dashboard)
@@ -11,6 +11,10 @@ The Sales Dashboard project focuses on providing a comprehensive visual represen
 The HR Attrition Analytics Project is a comprehensive data analytics initiative aimed at analyzing and visualizing employee attrition data for informed decision-making within an organization. The goal is to provide valuable insights into employee attrition trends, enabling HR professionals to devise targeted retention strategies and optimize workforce planning. ![](images/HR.png)
 ## [Pharma Data Analysis-MySql](https://github.com/manisha23das/Pharma-Data-Analysis--MYSQL)
 The Pharma Dataset Data Analysis project aims to derive valuable insights from a pharmaceutical dataset using SQL queries. By leveraging SQL queries, this analysis focuses on uncovering patterns, trends, and key metrics within the pharmaceutical sales data.
+## [Indian Census Analysis-MySql](https://github.com/manisha23das/India-Census-analysis--MySql)
+The India Census Analysis project aims to derive meaningful insights from Indian census data using MySQL. Leveraging two datasets, Dataset1 and Dataset2, the project delves into demographic information, growth trends, literacy rates, and population statistics across various districts and states in India.
+## [Bank Loan Analysis-Excel](https://github.com/manisha23das/Bank-Loan-Analysis-Excel/blob/main/Screenshot%203.png)
+The Bank Loan Analysis project utilizes Excel, specifically employing pivot tables, to analyze and derive insights from a dataset of loan applications. The dataset includes information such as loan details, applicant details, and loan status.
 # Certificates:
 [• PWC Power BI Job Simulation on Forage](https://drive.google.com/file/d/1Yx8TWmV58tzk8MBMaNE925WjBigY8tg7/view)
 -Completed a job simulation where I strengthened my PowerBI skills to better understand clients and their data visualisation needs.
