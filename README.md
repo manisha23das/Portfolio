@@ -1,6 +1,6 @@
 ### -[Resume](https://drive.google.com/file/d/1_VD-OD0uc9MllWGFvu_73an9twzQOdSN/view?usp=sharing)     
 ### -[Linkedin](https://www.linkedin.com/in/manisha-das-3a7b3b224/)
-### -[Contact-][(manisha.bhumca21@gmail.com)]
+### -Contact-manisha.bhumca21@gmail.com
 
 # Projects:
 ## [ATM Transaction Dashboard](https://github.com/manisha23das/ATM-Transaction-Dashboard)
