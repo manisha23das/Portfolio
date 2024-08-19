@@ -1,6 +1,8 @@
-### -[Resume](https://drive.google.com/file/d/1_VD-OD0uc9MllWGFvu_73an9twzQOdSN/view?usp=sharing)     
+### -[Resume](https://drive.google.com/file/d/1oKBGIkFPy5c_WDGC3Vf1QcXtug4W7Dxh/view?usp=sharing)     
 ### -[Linkedin](https://www.linkedin.com/in/manisha-das-3a7b3b224/)
 ### -Contact: manisha.bhumca21@gmail.com
+## Skills:
+### SQl, Excel, Power BI, Python
 
 # Projects:
 ## [ATM Transaction Dashboard](https://github.com/manisha23das/ATM-Transaction-Dashboard)
