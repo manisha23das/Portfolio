@@ -2,7 +2,7 @@
 ### -[Linkedin](https://www.linkedin.com/in/manisha-das-3a7b3b224/)
 ### -Contact: manisha.bhumca21@gmail.com
 ## Skills:
-### SQl, Excel ![](images/PngItem_5756501.png) 
+### SQl, Excel. ![](images/PngItem_5756501.png) 
 ### Power BI, Python
 
 # Projects:
