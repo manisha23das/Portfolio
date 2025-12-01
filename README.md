@@ -16,13 +16,18 @@ Built Underpayment Recovery dashboards to track partner and customer wallet tran
 
 Automated PFE Cashback updates, replacing manual Google Sheets with direct table and code integration, ensuring real-time accuracy and eliminating unnecessary manual work.
 
-Migrated and optimized ETL pipelines from Redshift to Snowflake, converting Python logic into SQL stored procedures to automate workflows.
+Migrated and optimized ETL pipelines from Redshift to Snowflake, converting Python logic into SQL stored procedures to automate workflows and improve performance, scalability, and reliability.
 
 Maintained India Spot and PFE MIS dashboards, ensuring 99%+ data accuracy for monitoring key metrics and supporting informed decisions.
 
 
 
 # Projects:
+## [COVID-19 Automated ETL Pipeline](https://github.com/manisha23das/Covid_19_ETL)
+A scheduled ETL pipeline that automatically fetches real-time COVID-19 case data from a public API, transforms the raw JSON into structured CSV, and updates the repository daily using GitHub Actions.
+Showcases skills in workflow automation, Python-based data engineering, API integration, and dataset versioning.
+## [Web Scraping Project – Job Listings Extraction](https://github.com/manisha23das/web-scraping/tree/main)
+Built a web scraping pipeline to extract job listings from Indeed, including job titles, companies, locations, and job descriptions and stored the final dataset in an Excel file for easy analysis.
 ## [ATM Transaction Dashboard](https://github.com/manisha23das/ATM-Transaction-Dashboard)
 The purpose of this project is to analyze the ATM transaction data for Bank to gain insights on customer behavior, ATM usage, and identify opportunities to improve the bank's services. ![](images/Atm.png)
 ## [Vehicle Car Insurance Analysis](https://github.com/manisha23das/Vehicle-Car-Insurance)
