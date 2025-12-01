@@ -2,6 +2,7 @@
 ### -[Linkedin](https://www.linkedin.com/in/manisha-das-3a7b3b224/)
 ### -Contact: manisha.bhumca21@gmail.com
 
+# Experience
 Porter – Business Analyst 
 
 Bengaluru | Nov 2024 – Nov 2025
@@ -28,6 +29,8 @@ A scheduled ETL pipeline that automatically fetches real-time COVID-19 case data
 Showcases skills in workflow automation, Python-based data engineering, API integration, and dataset versioning.
 ## [Web Scraping Project – Job Listings Extraction](https://github.com/manisha23das/web-scraping/tree/main)
 Built a web scraping pipeline to extract job listings from Indeed, including job titles, companies, locations, and job descriptions and stored the final dataset in an Excel file for easy analysis.
+## [Consumer Goods ad_hoc insights-Mysql](https://github.com/manisha23das/Consumer-goods-ad-hoc-request)
+The objective of this project is to analyze various aspects of Atliq Hardwares' business operations based on ten specific ad-hoc requests. These insights will help the management understand market presence, product diversity, customer behavior, sales performance, and more.
 ## [ATM Transaction Dashboard](https://github.com/manisha23das/ATM-Transaction-Dashboard)
 The purpose of this project is to analyze the ATM transaction data for Bank to gain insights on customer behavior, ATM usage, and identify opportunities to improve the bank's services. ![](images/Atm.png)
 ## [Vehicle Car Insurance Analysis](https://github.com/manisha23das/Vehicle-Car-Insurance)
@@ -38,8 +41,6 @@ The Sales Dashboard project focuses on providing a comprehensive visual represen
 The HR Attrition Analytics Project is a comprehensive data analytics initiative aimed at analyzing and visualizing employee attrition data for informed decision-making within an organization. The goal is to provide valuable insights into employee attrition trends, enabling HR professionals to devise targeted retention strategies and optimize workforce planning. ![](images/HR.png)
 ## [Pharma Data Analysis-MySql](https://github.com/manisha23das/Pharma-Data-Analysis--MYSQL)
 The Pharma Dataset Data Analysis project aims to derive valuable insights from a pharmaceutical dataset using SQL queries. By leveraging SQL queries, this analysis focuses on uncovering patterns, trends, and key metrics within the pharmaceutical sales data.
-## [Consumer Goods ad_hoc insights-Mysql](https://github.com/manisha23das/Consumer-goods-ad-hoc-request)
-The objective of this project is to analyze various aspects of Atliq Hardwares' business operations based on ten specific ad-hoc requests. These insights will help the management understand market presence, product diversity, customer behavior, sales performance, and more.
 ## [Indian Census Analysis-MySql](https://github.com/manisha23das/India-Census-analysis--MySql/blob/main/india_census.sql)
 The India Census Analysis project aims to derive meaningful insights from Indian census data using MySQL. Leveraging two datasets, Dataset1 and Dataset2, the project delves into demographic information, growth trends, literacy rates, and population statistics across various districts and states in India.
 ## [Bank Loan Analysis-Excel](https://github.com/manisha23das/Bank-Loan-Analysis-Excel/blob/main/Screenshot%203.png)
