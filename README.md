@@ -2,6 +2,25 @@
 ### -[Linkedin](https://www.linkedin.com/in/manisha-das-3a7b3b224/)
 ### -Contact: manisha.bhumca21@gmail.com
 
+Porter – Business Analyst 
+
+Bengaluru | Nov 2024 – Nov 2025
+
+Migrated the PFE dashboard from Streamlit to Metabase, enhancing performance, scalability, and team accessibility; reduced loading time by ~60% and ensured smooth transition without affecting existing metrics.
+
+Developed standardized brand-level PFE dashboards in Metabase, providing consistent visibility into brand-wise performance and enabling faster, data-driven decision-making.
+
+Conducted the 2W Bad Debt Experiment, analyzing the removal of trusted payouts in two-wheeler logistics; developed dashboards for underpayment and Guardial metrics, enabling real-time monitoring and contributing to a ~50% reduction in bad debt, saving ₹12L/month.
+
+Built Underpayment Recovery dashboards to track partner and customer wallet transactions, capturing subsequent transactions for recharge and recovery analysis; improved efficiency in monitoring by ~40%.
+
+Automated PFE Cashback updates, replacing manual Google Sheets with direct table and code integration, ensuring real-time accuracy and eliminating unnecessary manual work.
+
+Migrated and optimized ETL pipelines from Redshift to Snowflake, converting Python logic into SQL stored procedures to automate workflows.
+
+Maintained India Spot and PFE MIS dashboards, ensuring 99%+ data accuracy for monitoring key metrics and supporting informed decisions.
+
+
 
 # Projects:
 ## [ATM Transaction Dashboard](https://github.com/manisha23das/ATM-Transaction-Dashboard)
