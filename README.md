@@ -1,4 +1,4 @@
-### -[Resume](https://drive.google.com/file/d/1oKBGIkFPy5c_WDGC3Vf1QcXtug4W7Dxh/view?usp=sharing)     
+### -[Resume](https://drive.google.com/file/d/1pkx5jnDm7voJDt5Fv0FqbVheHtcJOeeq/view?usp=sharing)     
 ### -[Linkedin](https://www.linkedin.com/in/manisha-das-3a7b3b224/)
 ### -Contact: manisha.bhumca21@gmail.com
 
@@ -11,7 +11,7 @@ Migrated the PFE dashboard from Streamlit to Metabase, enhancing performance, sc
 
 Developed standardized brand-level PFE dashboards in Metabase, providing consistent visibility into brand-wise performance and enabling faster, data-driven decision-making.
 
-Conducted the 2W Bad Debt Experiment, analyzing the removal of trusted payouts in two-wheeler logistics; developed dashboards for underpayment and Guardial metrics, enabling real-time monitoring and contributing to a ~50% reduction in bad debt, saving ₹12L/month.
+Conducted the 2W Bad Debt Experiment, analyzing the removal of trusted payouts in two-wheeler logistics; developed dashboards for underpayment and Guardial metrics, enabling real-time monitoring and contributing to a ~30% reduction in bad debt, saving ₹1-2L/month.
 
 Built Underpayment Recovery dashboards to track partner and customer wallet transactions, capturing subsequent transactions for recharge and recovery analysis; improved efficiency in monitoring by ~40%.
 
