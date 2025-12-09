@@ -1,4 +1,4 @@
-### -[Resume]([https://drive.google.com/file/d/1pkx5jnDm7voJDt5Fv0FqbVheHtcJOeeq/view?usp=sharing](https://drive.google.com/file/d/1tqJLnag3qKAlAyUyIk2maGFc6C-D_w-6/view?usp=sharing))     
+### -[Resume](https://drive.google.com/file/d/1tqJLnag3qKAlAyUyIk2maGFc6C-D_w-6/view?usp=sharing)     
 ### -[Linkedin](https://www.linkedin.com/in/manisha-das-3a7b3b224/)
 ### -Contact: manisha.bhumca21@gmail.com
 
